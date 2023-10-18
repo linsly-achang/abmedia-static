@@ -1,0 +1,75 @@
+#sidebar .bitget-news:not(.active){
+    display: none;
+}
+
+.bitget-news .category{
+    border-radius: 20px;
+    background-color: #f1bb4b;
+    border: 2px solid #f1bb4b;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 500;
+    text-align: center;
+    color: #4f4f4f;
+    padding: 2px 10px;
+    text-decoration: none;
+    white-space: nowrap;
+    letter-spacing: .5px;
+    cursor: pointer;
+}
+
+.bitget-news .category:hover{
+    background: none;
+}
+
+.bitget-news .day,
+.bitget-news .time{
+    font-family: "Noto Sans TC","Noto Sans SC";
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.1;
+    color: #828282;
+}
+
+.bitget-news .time{
+    font-weight: 300;
+    margin-left: .4em;
+}
+
+#sidebar .bitget-news>.title{
+    margin-top: 1.2em;
+    justify-content: flex-end;
+}
+
+.news-tab {
+    display: flex;
+    align-items: flex-end;
+    padding: 0;
+}
+
+.news-tab li{
+    display: inline-block;
+    border-radius: 14px 14px 0px 0px;
+    background-color: #433E73;
+    color: #E0E0E0;
+    padding: .8em 1.2em .4em;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: .1em;
+}
+
+.news-tab li.active{
+    padding-bottom: .8em;
+    padding-top: 1.2em;
+    background-color: #EEAA1E;
+    color: #FFF;
+}
+
+.news-tab li:not(.active):hover{
+    color: #EEAA1E;
+    cursor: pointer;
+}
+
+.news-tab li.active:hover{
+    color: #433E73;
+}

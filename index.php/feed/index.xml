@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>localhost</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 18 Oct 2023 09:39:07 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>noname</title>
+		<link>./../2023/10/18/noname/index.html</link>
+					<comments>./../2023/10/18/noname/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[bvbnjghui]]></dc:creator>
+		<pubDate>Wed, 18 Oct 2023 09:29:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../index.html?p=36</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../2023/10/18/noname/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>тест 04</title>
+		<link>./../2023/10/18/test-04/index.html</link>
+					<comments>./../2023/10/18/test-04/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[bvbnjghui]]></dc:creator>
+		<pubDate>Wed, 18 Oct 2023 09:28:37 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../index.html?p=34</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../2023/10/18/test-04/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>test 03</title>
+		<link>./../2023/10/18/test-03/index.html</link>
+					<comments>./../2023/10/18/test-03/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[bvbnjghui]]></dc:creator>
+		<pubDate>Wed, 18 Oct 2023 09:28:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../index.html?p=32</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../2023/10/18/test-03/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>why</title>
+		<link>./../2023/10/18/11/index.html</link>
+					<comments>./../2023/10/18/11/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[bvbnjghui]]></dc:creator>
+		<pubDate>Wed, 18 Oct 2023 09:27:44 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://127.0.0.1/wp1/?p=11</guid>
+
+					<description><![CDATA[hife]]></description>
+										<content:encoded><![CDATA[<p>hife</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../2023/10/18/11/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>./../2023/09/19/hello-world/index.html</link>
+					<comments>./../2023/09/19/hello-world/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[bvbnjghui]]></dc:creator>
+		<pubDate>Tue, 19 Sep 2023 03:56:39 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://127.0.0.1/wp1/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or  [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><span class="achang-highlight">Welcome</span> t<mark style="background-color:#cf2e2e" class="has-inline-color">o WordPr</mark><mark style="background-color:#fcb900" class="has-inline-color">ess</mark>. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../2023/09/19/hello-world/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

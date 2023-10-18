@@ -1,0 +1,51 @@
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover{
+    border: 1px solid #c5c5c5;
+    background: #f6f6f6;
+    font-weight: normal;
+    color: #454545;
+}
+.achang_faq button.accordion-button.collapsed {
+    border: 1px #c5c5c5 solid;
+}
+
+.achang_AddQA_questionList_question h3,
+.achang_AddQA_questionList_question h3.question {
+    padding: 5px;
+    line-height: 1.1;
+}
+
+
+.achang_AddQA_questionList_answer {
+    border: 1px solid;
+    margin-bottom: 10px;
+    border-top: 0;
+    border-radius: 0 0 5px 5px;
+    padding: 5px;
+}
+
+.achang_AddQA_questionList .achang_AddQA_questionList_question > h3 {
+    border-radius: 5px;
+    margin-bottom: 0px !important;
+    margin-top: 10px !important;
+    padding-left: 10px;
+}
+
+.achang_AddQA_questionList_question > h3.active {
+    border-radius: 5px 5px 0 0;
+}
+.achang_AddQA_questionList_question p {
+    display: none;
+    line-height: 1.5;
+}
+
+.achang_AddQA_questionList_question > h3:before {
+    content: "＋";
+    width: 25px;
+    display: inline-block;
+}
+
+.achang_AddQA_questionList_question > h3.active:before {
+    content: "－";
+}
+
+
